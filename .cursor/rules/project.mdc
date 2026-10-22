@@ -1,0 +1,31 @@
+---
+description: Engineering conventions for the FlyRank portfolio
+alwaysApply: true
+---
+
+# Project Context
+
+This is a developer portfolio for the FlyRank Front-end AI Engineering capstone.
+
+## Planned Technology Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+## Engineering Conventions
+- Use TypeScript for application code.
+- Prefer reusable React components.
+- Build responsive, mobile-first interfaces.
+- Use semantic HTML and accessible controls.
+- Keep components small and maintainable.
+- Avoid hardcoded secrets and credentials.
+- Explain important implementation decisions.
+- Do not claim unimplemented features are complete.
+
+## AI Collaboration Rules
+- Inspect existing code before making changes.
+- Explain proposed changes clearly.
+- Avoid modifying unrelated files.
+- Ask before installing new dependencies.
+- Recommend appropriate tests.
+- Use Conventional Commits for Git history.
