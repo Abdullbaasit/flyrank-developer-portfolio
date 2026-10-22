@@ -42,3 +42,5 @@ Each completed project case study will document:
 - [ ] Add project case studies.
 - [ ] Test accessibility and responsiveness.
 - [ ] Deploy the portfolio.
+## Current Learning Goal
+Improve my frontend engineering skills through the FlyRank internship.
