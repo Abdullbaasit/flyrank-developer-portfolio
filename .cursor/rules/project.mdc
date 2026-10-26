@@ -29,3 +29,48 @@ This is a developer portfolio for the FlyRank Front-end AI Engineering capstone.
 - Ask before installing new dependencies.
 - Recommend appropriate tests.
 - Use Conventional Commits for Git history.
+
+## Accessibility and Quality Checklist
+
+Before considering a frontend task complete:
+
+- Verify the layout at mobile, tablet, and desktop widths.
+- Use semantic HTML elements.
+- Ensure buttons and links are keyboard accessible.
+- Give meaningful images descriptive alternative text.
+- Avoid horizontal overflow on small screens.
+- Explain any known limitations.
+- Do not claim tests have passed unless they were actually run.
+
+## Portfolio Evidence
+
+This portfolio will demonstrate frontend engineering through
+documented projects, working interfaces, and technical decisions.
+
+Each completed project case study should include:
+
+- The problem the project addresses.
+- My personal contributions.
+- Technologies actually used.
+- A technical challenge and how I approached it.
+- Screenshots or a working demonstration, where available.
+- Known limitations and planned improvements.
+
+## Development Milestones
+
+- [x] Create initial project documentation.
+- [x] Configure Git and Cursor AI rules.
+- [ ] Initialize the Next.js application.
+- [ ] Build responsive portfolio sections.
+- [ ] Add project case studies.
+- [ ] Test accessibility and responsiveness.
+- [ ] Deploy and document the completed portfolio.
+
+## Frontend Quality Checklist
+
+- Test layouts at mobile, tablet, and desktop widths.
+- Check for horizontal overflow on small screens.
+- Use semantic HTML and accessible navigation.
+- Verify keyboard accessibility for interactive elements.
+- Describe any unresolved bugs honestly.
+- Never report a test as passed unless it was executed.
