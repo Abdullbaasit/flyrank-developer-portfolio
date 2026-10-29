@@ -74,3 +74,34 @@ Each completed project case study should include:
 - Verify keyboard accessibility for interactive elements.
 - Describe any unresolved bugs honestly.
 - Never report a test as passed unless it was executed.
+
+
+# FlyRank Portfolio — AI Engineering Rules
+
+## Rule 1: Preserve the existing architecture
+Before generating code, inspect the relevant project files.
+Use Next.js App Router, TypeScript, and Tailwind CSS.
+Do not introduce standalone HTML or JavaScript files
+when the feature belongs in the Next.js application.
+
+## Rule 2: Implement accessible forms
+Every form input must have an associated label.
+Validation errors must be visible and associated
+with their fields using appropriate ARIA attributes.
+Forms must support keyboard navigation and mobile screens.
+
+## Rule 3: Verify before claiming completion
+Run ESLint, TypeScript checks, and a production build.
+Report the exact results.
+Never claim that a feature works without verification.
+
+## Rule 4: Avoid misleading submission behavior
+A contact form without a configured email service
+must clearly identify itself as a demo.
+Never display a message claiming successful email
+delivery when no email was sent.
+
+## Rule 5: Protect project boundaries
+Inspect Git status before making changes.
+Avoid unrelated edits and do not commit secrets,
+node_modules, or generated build files.
